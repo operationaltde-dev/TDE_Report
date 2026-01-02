@@ -1,0 +1,1 @@
+<a class="dropdown-item" href="#" wire:click="logout" load><i class="ph-bold ph-sign-out"></i> Logout</a>
